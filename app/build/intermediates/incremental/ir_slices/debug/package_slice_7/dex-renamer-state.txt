@@ -1,4 +1,4 @@
-#Tue May 28 20:47:37 NPT 2019
+#Tue May 28 22:44:38 NPT 2019
 base.0=/Users/mac/Downloads/UdharoApp/app/build/intermediates/transforms/dexMerger/debug/7
 path.0=classes.dex
 renamed.0=classes.dex

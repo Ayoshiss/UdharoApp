@@ -209,12 +209,14 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-light"
                     android:text="Register as "
+                    android:paddingBottom="12dp"
                     android:textAllCaps="true"
                     android:textColor="@color/white"
                     android:textSize="15sp" />
 
                 <Spinner
                     android:id="@+id/spinner"
+                    android:textSize="20sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     tools:layout_editor_absoluteX="161dp"

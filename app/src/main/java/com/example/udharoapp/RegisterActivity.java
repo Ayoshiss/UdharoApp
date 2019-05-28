@@ -50,7 +50,9 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         findViewById(R.id.btnreg).setOnClickListener(this);
 
         spinner = findViewById(R.id.spinner);
-        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this , R.array.usertype , R.layout.support_simple_spinner_dropdown_item);
+
+        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this , R.array.usertype , R.layout.spinner_item);
+        adapter.setDropDownViewResource(R.layout.spinner_dropdown_item);
         spinner.setAdapter(adapter);
 
     }

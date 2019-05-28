@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Udharo App</string>
     <string-array name="usertype">
-        <item>Customer</item>
-        <item>Retailer</item>
+        <item>CUSTOMER</item>
+        <item>RETAILER</item>
     </string-array>
 
 
