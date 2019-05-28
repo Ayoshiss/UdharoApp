@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282631538979",
+    "firebase_url": "https://udharoapp-3dd21.firebaseio.com",
+    "project_id": "udharoapp-3dd21",
+    "storage_bucket": "udharoapp-3dd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282631538979:android:eff2c5615253c29c",
+        "android_client_info": {
+          "package_name": "com.example.udharoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282631538979-urc7mjtv7afbnbjeo963s4g29nrrgm5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.udharoapp",
+            "certificate_hash": "6ac7e07c4b3294eecbf8c031c69bcc8dcea1420e"
+          }
+        },
+        {
+          "client_id": "282631538979-knorsb10a92vllhqdh6flq7gn3mp9e04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWj7pqbxpOX4OHCyQpvIQRPvOcETLhWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282631538979-knorsb10a92vllhqdh6flq7gn3mp9e04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
